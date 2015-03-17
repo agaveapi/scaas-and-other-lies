@@ -53,4 +53,4 @@ In this 4 hour workshop we will look at how we are rethinking the way big data a
 * Docker Images  
  * Autodock Vina: [taccsciapps/autodock-vina](https://registry.hub.docker.com/u/taccsciapps/autodock-vina/)  
  * Agave ToGo: [agaveapi/agave-togo](https://bitbucket.org/deardooley/agave-gateway-dna)
- * Agave CLI: [agaveapi/agave-cli](https://bitbucket.org/agaveapi/foundation-cli)
+ * Agave CLI: [agaveapi/agave-cli](https://bitbucket.org/taccaci/foundation-cli)
