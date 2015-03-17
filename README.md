@@ -31,11 +31,11 @@ In this 4 hour workshop we will look at how we are rethinking the way big data a
 **12:00 pm** Breather  
 **12:15 am** "Point, click, demo" - short demo showing each group's app  
 **12:45 am** "Ready, set, scale" - interactive session with attendees iterating on their apps and watching them scale and share their science  
-**13:15 am** "Schwag you very much" - chotskies for the rock stars  
+**13:15 am** "Thinking you very much" - exchange final thoughts and gratitude  
 
 ## Materials
 * [Slide deck](https://docs.google.com/presentation/d/1l4PQDy_-AqoacVIX_a6zwjsy5x8EfDmapCTzHZqK0tU)
-* [Hands-on session](https://docs.google.com/presentation/d/13yqbi8U8l9QLs72-B-fRxIlhov_UtVlOQ14_EzvT4Fw)
+* [Hands-on session slides](https://docs.google.com/presentation/d/13yqbi8U8l9QLs72-B-fRxIlhov_UtVlOQ14_EzvT4Fw)
 * Websites
  * [Agave Developer's Site](http://preview.agaveapi.co)
  * [Agave ToGo](http://bit.ly/agave-togo)
