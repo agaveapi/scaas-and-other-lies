@@ -2,7 +2,10 @@
 
 ## Please grab an account for the hands on session!
 
-http://user.iplantcollaborative.org/
+Sign up here: http://user.iplantcollaborative.org/
+Then send an email with your username to dooley@tacc.utexas.edu
+
+We, in turn, will get you access to the 7th most powerful supercomputer in the world.
 
 ## Intro
 
