@@ -1,5 +1,11 @@
 # Science-as-a-Service and Other Lies: Hacking Big Data On the Web
 
+## Please grab an account for the hands on session!
+
+http://user.iplantcollaborative.org/
+
+## Intro
+
 Big science and big data have moved out of the research world and into our daily lives. Thankfully, much of the heavy lifting has been abstracted away by a rising community of startups offering everything from accounting and analytics, to techno dance parties as a service. The X-as-a-Service movement has the potential to dramatically change the way we think about problems, yet there will always be problems off the beaten path that beat us down. How do we tackle big data problems that don’t involve social media, eCommerce, and CRM? How can we use the public cloud and private data centers interchangeably? At SXSW, such problems are all in a day’s work for the Jedi on stage, but what about the rest of us?
 
 In this 4 hour workshop we will look at how we are rethinking the way big data and computational science are conducted and get some hands-on experience approaching science as a service.
