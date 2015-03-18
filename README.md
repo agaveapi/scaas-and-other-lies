@@ -1,5 +1,10 @@
 # Science-as-a-Service and Other Lies: Hacking Big Data On the Web
 
+## Slide Decks
+
+* [Intro](https://docs.google.com/a/tacc.utexas.edu/presentation/d/1l4PQDy_-AqoacVIX_a6zwjsy5x8EfDmapCTzHZqK0tU)
+* [Scaling demo](https://docs.google.com/presentation/d/13yqbi8U8l9QLs72-B-fRxIlhov_UtVlOQ14_EzvT4Fw/edit?usp=sharing)
+
 ## Please grab an account for the hands on session!
 
 Sign up here: http://user.iplantcollaborative.org/
