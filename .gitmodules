@@ -1,0 +1,3 @@
+[submodule "autodock_vina"]
+	path = autodock_vina
+	url = https://bitbucket.org/taccaci/autodock_vina
